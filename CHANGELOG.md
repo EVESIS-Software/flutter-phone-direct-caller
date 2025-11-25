@@ -1,3 +1,6 @@
+## 2.2.2
+Address Android crash - patch onRequestPermissionsResult callback to prevent double replies
+
 ## 2.2.0
 * use Android namespace
 * Use the new `openURL` method on iOS
